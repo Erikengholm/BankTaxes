@@ -32,9 +32,14 @@ const router = new Router({
     }, {
       path: '/sign-in',
       component: () => import('./views/sign-in/sign-in.vue')
-    }, {
+    },
+    {
       path: '/test',
       component: () => import('./views/Test/test.vue')
+    },
+    {
+      path: '/OCR',
+      component: () => import('./views/OCR/OCR.vue')
     }, {
       path: '/token-verify',
       component: () => import('./views/token-verify/token-verify.vue')

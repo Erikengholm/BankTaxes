@@ -23,8 +23,8 @@ export default {
     WalletInext: 'how much goes to inext',
     WalletTaxes: 'how much that goes to taxes',
     WalletSallery: 'how much that goes to Salery',
-    HowMuchIsLeft: 'how much are left'
-
+    HowMuchIsLeft: 'how much are left',
+    WalletEmployersContributetion : 'how much the employer contributions are in total'
 
   },
   sw: {
@@ -47,7 +47,8 @@ export default {
     WalletInext: 'hur mycket somm går till inext',
     WalletTaxes: 'hur mycket som går till skatter',
     WalletSallery: 'hur mycket som går till lön skatt',
-    HowMuchIsLeft: 'hur mycket blir kvar'
+    HowMuchIsLeft: 'hur mycket blir kvar',
+    WalletEmployersContributetion : 'hur mycket Arbetsgivaravgifterna är sammanlagt'
 
   }
 };
